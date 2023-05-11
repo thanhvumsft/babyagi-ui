@@ -111,7 +111,7 @@ export const Input: FC<InputProps> = ({
           rel="noreferrer"
           className="underline"
         >
-          BabyAGI UI
+          BabyAGI Version for WMI
         </a>
         {' is designed to make it easier to run and develop with '}
         <a
